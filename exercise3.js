@@ -67,3 +67,5 @@ function calculateResult() {
     var result = sums(sum1, sum2);
     document.getElementById('result').textContent = "Result: " + result;
 }
+
+
