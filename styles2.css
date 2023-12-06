@@ -1,0 +1,47 @@
+title {
+    background: goldenrod;
+}
+body {
+    background: goldenrod;
+}
+#btn1 {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #3498db; /* Button background color */
+    color: #fff; /* Text color */
+    border: none; /* Remove button border */
+    border-radius: 5px; /* Add border-radius for rounded corners */
+    cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+#btn2 {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #3498db; /* Button background color */
+    color: #fff; /* Text color */
+    border: none; /* Remove button border */
+    border-radius: 5px; /* Add border-radius for rounded corners */
+    cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+#btn3 {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #3498db; /* Button background color */
+    color: #fff; /* Text color */
+    border: none; /* Remove button border */
+    border-radius: 5px; /* Add border-radius for rounded corners */
+    cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+
+body { font-family: sans-serif; margin:
+    0; }
+
+.container { display: flex; min-height:
+    100vh; align-items: stretch; }
+
+.column { background: goldenrod; display:
+    flex; flex-direction: column; justify-content:
+    center; align-items: center; flex:
+    1; }
